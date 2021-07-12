@@ -1,0 +1,6 @@
+{
+    "port": "/dev/tty.SLAB_USBtoUART",
+    "board": "espressif:esp32:esp32",
+    "configuration": "PSRAM=disabled,PartitionScheme=no_ota,CPUFreq=240,FlashMode=qio,FlashFreq=80,FlashSize=4M,UploadSpeed=921600,DebugLevel=none",
+    "sketch": "esp32_irk.ino"
+}
